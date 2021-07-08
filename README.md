@@ -8,7 +8,7 @@
 
 <p align="center"> <a href="https://twitter.com/allunivingold" target="blank"><img src="https://img.shields.io/twitter/follow/allunivingold?logo=twitter&style=for-the-badge" alt="allunivingold" /></a> </p>
 
-- 🔭 I’m currently working on **Show Layout Bound Plugin**
+- 🔭 I’m currently working on **Show Layout Bound Plugin For Android**
 
 - 🌱 I’m currently learning **Flutter**
 
