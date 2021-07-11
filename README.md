@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.ibb.co/LQKSrGh/alvin-gold.jpg" alt="thangaduraiselvaraj"  width="1500" height="450"/></a> </p>
+<p align="center"><img src="https://i.ibb.co/LQKSrGh/alvin-gold.jpg" alt="thangaduraiselvaraj" /></a> </p>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif" alt="thangaduraiselvaraj" width="50" height="50"/> , I'm { Thangadurai Selvaraj }</h1>
 <h3 align="center">A 👦Boy trying to Figure-Out Stuff!!</h3>
 
